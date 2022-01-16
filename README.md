@@ -1,6 +1,6 @@
 # Ubuntu-Desktop-Playwight-noVNC-Heroku-VPS
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/leaderiop/heroku-vps)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/limasjeffry/heroku-vps-1)
 
 Ubuntu-Desktop-PlayWirght-noVNC-Heroku-VPS serves docker VPS via heroku web and noVNC
 
